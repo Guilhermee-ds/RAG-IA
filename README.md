@@ -53,7 +53,7 @@ cd RAG-IA
 2. Execute a aplicação:
 
 ```bash
-streamlit run app.py
+streamlit run pdf_rag.py
 ```
 
 3. Acesse no navegador em **http://localhost:8501**
